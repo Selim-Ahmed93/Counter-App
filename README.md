@@ -16,7 +16,7 @@ A simple and elegant **Counter Application** built with **HTML, CSS, and JavaScr
 
 ## 📸 Screenshot
 
-![Counter App Screenshot](./screenshot.png) <!-- Replace with actual screenshot later -->
+Counter-App live link  https://selim-ahmed93.github.io/Counter-App/ 
 
 ---
 
